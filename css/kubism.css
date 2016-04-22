@@ -7758,35 +7758,35 @@ input.ui-button::-moz-focus-inner,button.ui-button::-moz-focus-inner {
 
 @font-face {
     font-family: 'ProximaNova';
-    src: url('webfonts/298CCB_2_0.eot');
-    src: url('webfonts/298CCB_2_0.eot?#iefix') format('embedded-opentype'), url('webfonts/298CCB_2_0.woff') format('woff'), url('webfonts/298CCB_2_0.ttf') format('truetype');
+    src: url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_2_0.eot');
+    src: url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_2_0.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_2_0.woff') format('woff'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_2_0.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'ProximaNova';
-    src: url('webfonts/298CCB_0_0.eot');
-    src: url('webfonts/298CCB_0_0.eot?#iefix') format('embedded-opentype'), url('webfonts/298CCB_0_0.woff') format('woff'), url('webfonts/298CCB_0_0.ttf') format('truetype');
+    src: url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_0_0.eot');
+    src: url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_0_0.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_0_0.woff') format('woff'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_0_0.ttf') format('truetype');
     font-weight: 300;
 }
 
 @font-face {
     font-family: 'ProximaNova';
-    src: url('webfonts/298CCB_1_0.eot');
-    src: url('webfonts/298CCB_1_0.eot?#iefix') format('embedded-opentype'), url('webfonts/298CCB_1_0.woff') format('woff'), url('webfonts/298CCB_1_0.ttf') format('truetype');
+    src: url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_1_0.eot');
+    src: url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_1_0.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_1_0.woff') format('woff'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_1_0.ttf') format('truetype');
     font-weight: 500;
 }
 
 @font-face {
     font-family: 'ProximaNova';
-    src: url('webfonts/298CCB_3_0.eot');
-    src: url('webfonts/298CCB_3_0.eot?#iefix') format('embedded-opentype'), url('webfonts/298CCB_3_0.woff') format('woff'), url('webfonts/298CCB_3_0.ttf') format('truetype');
+    src: url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_3_0.eot');
+    src: url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_3_0.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_3_0.woff') format('woff'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/298CCB_3_0.ttf') format('truetype');
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'ProximaNova';
-    src: url('webfonts/2E0090_4_0.eot');
-    src: url('webfonts/2E0090_4_0.eot?#iefix') format('embedded-opentype'), url('webfonts/2E0090_4_0.woff2') format('woff2'), url('webfonts/2E0090_4_0.woff') format('woff'), url('webfonts/2E0090_4_0.ttf') format('truetype');
+    src: url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/2E0090_4_0.eot');
+    src: url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/2E0090_4_0.eot?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/2E0090_4_0.woff2') format('woff2'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/2E0090_4_0.woff') format('woff'), url('https://cdn.rawgit.com/exaphaser/Kubism/master/css/webfonts/2E0090_4_0.ttf') format('truetype');
     font-weight: 100;
 }
 
